@@ -14,10 +14,3 @@ version = "0.1.0"
 dependencies = [
  "cc",
 ]
-
-[[package]]
-name = "musl-link"
-version = "0.1.0"
-dependencies = [
- "foo",
-]

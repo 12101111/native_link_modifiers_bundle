@@ -1,7 +1,9 @@
 [package]
-name = 'musl-link'
+name = 'foo'
 version = '0.1.0'
 edition = '2018'
 
-[dependencies.foo]
-path = './foo'
+[dependencies]
+
+[build-dependencies]
+cc = '1.0'
